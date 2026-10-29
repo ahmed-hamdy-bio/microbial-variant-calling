@@ -1,0 +1,6 @@
+biopython
+pandas
+matplotlib
+notebook
+nbconvert
+ipykernel

@@ -1,0 +1,30 @@
+strain,pos,ref,alt,qual,depth,gene,product,codon,aa_change,effect
+S1,901,T,C,225.417,52,YP_pPCP01,putative transposase,CTG>CCG,L272P,missense
+S1,908,T,A,225.417,52,YP_pPCP01,putative transposase,GAT>GAA,D274E,missense
+S1,1479,A,T,225.417,80,YP_pPCP02,transposase/IS protein,TAT>TTT,Y125F,missense
+S1,1815,A,G,225.417,56,YP_pPCP02,transposase/IS protein,CAA>CGA,Q237R,missense
+S1,2263,A,G,225.417,46,intergenic,,,,intergenic
+S1,2666,G,T,225.417,61,intergenic,,,,intergenic
+S1,4418,A,G,225.422,76,pim,pesticin immunity protein,AAC>GAC,N26D,missense
+S1,4436,G,C,225.417,75,pim,pesticin immunity protein,GAC>CAC,D32H,missense
+S1,6723,A,T,225.417,66,pla,outer membrane protease,GCA>GCT,A20A,synonymous
+S2,78,G,C,168.416,26,intergenic,,,,intergenic
+S2,908,T,A,225.417,60,YP_pPCP01,putative transposase,GAT>GAA,D274E,missense
+S2,1479,A,T,225.417,61,YP_pPCP02,transposase/IS protein,TAT>TTT,Y125F,missense
+S2,1815,A,G,225.417,62,YP_pPCP02,transposase/IS protein,CAA>CGA,Q237R,missense
+S2,2734,A,T,225.417,48,intergenic,,,,intergenic
+S2,4067,C,A,225.417,70,intergenic,,,,intergenic
+S2,4418,A,G,225.417,48,pim,pesticin immunity protein,AAC>GAC,N26D,missense
+S2,4436,G,C,225.417,42,pim,pesticin immunity protein,GAC>CAC,D32H,missense
+S2,6723,A,T,225.422,61,pla,outer membrane protease,GCA>GCT,A20A,synonymous
+S2,7198,T,A,225.417,74,pla,outer membrane protease,TTC>ATC,F179I,missense
+S3,159,A,C,225.417,27,YP_pPCP01,putative transposase,AGA>CGA,R25R,synonymous
+S3,770,G,C,225.422,53,YP_pPCP01,putative transposase,CAG>CAC,Q228H,missense
+S3,1570,T,C,225.417,66,YP_pPCP02,transposase/IS protein,TAT>TAC,Y155Y,synonymous
+S3,1722,T,G,225.417,50,YP_pPCP02,transposase/IS protein,CTG>CGG,L206R,missense
+S3,2119,A,C,225.417,55,intergenic,,,,intergenic
+S3,2380,A,G,225.417,77,intergenic,,,,intergenic
+S3,5219,A,G,225.417,64,pst,pesticin,TAT>CAT,Y224H,missense
+S3,7396,T,C,225.417,68,pla,outer membrane protease,TAT>CAT,Y245H,missense
+S4,5049,G,T,225.417,49,pst,pesticin,ATC>ATA,I280I,synonymous
+S4,5678,A,G,225.422,70,pst,pesticin,TAT>CAT,Y71H,missense
